@@ -1,4 +1,4 @@
-### Problems with LLM 
+### Problems with LLM
 
 - LLM to hallucination
 - Data Cutoff
